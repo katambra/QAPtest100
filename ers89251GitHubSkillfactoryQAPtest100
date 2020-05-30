@@ -1,0 +1,35 @@
+[33mcommit b2a24b3c9b03a8fec78c116ab813ff5a9babcc67[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: katambra <you@example.com>
+Date:   Sat May 30 11:22:45 2020 +0300
+
+    something changed and something new
+
+[33mcommit 413daae2458b91f25e142b5b414eb4d8fbf3ac1d[m
+Author: katambra <you@example.com>
+Date:   Sat May 30 11:06:59 2020 +0300
+
+    a file has been removed
+
+[33mcommit bf7c3338049f1863ea6bf878654674d264868423[m
+Author: katambra <you@example.com>
+Date:   Sat May 30 10:30:22 2020 +0300
+
+    new line added
+
+[33mcommit 59a3fd37b2592d2025d5e4c68c10b30c9e577986[m
+Author: katambra <you@example.com>
+Date:   Sat May 30 10:23:24 2020 +0300
+
+    one more new
+
+[33mcommit 5dcd8cd25f3404230de3dd2b561d8702301f8ba1[m
+Author: katambra <you@example.com>
+Date:   Sat May 30 10:09:37 2020 +0300
+
+    A new file is added
+
+[33mcommit 69c271737958ff76ca9b1b357675d7cbc4b75d27[m
+Author: katambra <66130676+katambra@users.noreply.github.com>
+Date:   Fri May 29 21:50:52 2020 +0300
+
+    Initial commit
